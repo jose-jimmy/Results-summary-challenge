@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/jose-jimmy/Results-summary-challenge#the-challenge)
+- Solution URL: [Github](https://github.com/jose-jimmy/Results-summary-challenge#the-challenge)
 - Live Site URL: [Add live site URL here]()
 
 ### Built with
